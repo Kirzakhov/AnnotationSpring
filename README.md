@@ -1,1 +1,1 @@
-# AnnotationSpring
+Annotation based configuration
